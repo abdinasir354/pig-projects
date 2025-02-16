@@ -1,2 +1,2 @@
 # pig-projects
-resturent project
+To do list app
